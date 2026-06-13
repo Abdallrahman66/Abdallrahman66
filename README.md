@@ -16,7 +16,7 @@ Mobile Application Developer 📱 | Flutter Developer 🚀
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-🎓 Computer Science Student passionate about building impactful mobile applications
+🎓 Computer Science  passionate about building impactful mobile applications
 
 📱 Flutter Developer focused on writing clean, scalable, and maintainable code
 
