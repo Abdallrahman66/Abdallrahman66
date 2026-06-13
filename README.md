@@ -76,7 +76,7 @@ Mobile Application Developer 📱 | Flutter Developer 🚀
 <a href="https://www.linkedin.com/in/abdallrahmanzidan">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:abdallrahmanzidan66@gmail.com">
+<a href="https://abdallrahmanzidan66@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
